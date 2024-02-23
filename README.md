@@ -1,3 +1,4 @@
+![Report](/Mid-Term Submission (3).pdf)
 # Organization Background 
 Established in January 2023, Ali's Shawarma Truck has become an integral part of the local food landscape near KIIT University. Renowned for its mouthwatering shawarmas, diverse menu offerings, and personalized service, the truck has garnered a dedicated customer base. Over the years, the business has thrived due to its commitment to quality and innovation. However, there is untapped potential for further growth and optimization, which this project seeks to uncover through a rigorous and systematic data-driven approach.
 

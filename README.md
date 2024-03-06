@@ -21,7 +21,7 @@ The report titled "Enhancing Business Efficiency and Customer Experience for Ali
    - Temperature Variation Analysis: Temperature data is analyzed for October, November, and December, showing variations and potential impacts on sales.
    - Sales of Spicier Products Analysis: Sales trends for spicier products are examined, showing intermittent spikes correlated with temperature drops.
    - Correlation Analysis with Temperature: Heatmaps illustrate weak correlations between menu items and temperature, with notable negative correlations for spicier products.
-   - ![Pie Chart](/pie_chart.png)
+   - ![Pie Chart](/Individual Revenue Generated and Cumulative Percentage.png)
 
 # 4. **Interpretation of Results and Recommendations**:
    - Analyzing Customer Base: Customer base analysis suggests a significant portion comprises KIIT University students.

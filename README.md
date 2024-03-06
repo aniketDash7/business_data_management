@@ -5,7 +5,7 @@ The report titled "Enhancing Business Efficiency and Customer Experience for Ali
    - Financial performance analysis highlights the total revenue, profit, and profit margin, demonstrating robust financial health.
    - Performance analysis identifies the top-performing and underperforming shawarma products.
    - Temperature variation analysis explores potential correlations with sales trends, particularly for spicier products.
-   - ![Feature Correlation Matrix]('/feature_correlation_matrix.png')
+   - ![Feature Correlation Matrix](/feature_correlation_matrix.png)
 
 # 2. **Detailed Explanation of Analysis Process**:
    - Data Preparation and Cleaning: The data from the midterm submission is split into two datasets and cleaned. Daily expenses are established, including chicken, diesel, staff, and gas cylinder costs.
@@ -13,7 +13,7 @@ The report titled "Enhancing Business Efficiency and Customer Experience for Ali
    - Identifying Maximum Revenue and Units Sold: Maximum revenue-generating product and maximum units sold are identified.
    - Trend Analysis: Profit trend and individual product trends are plotted against dates.
    - Temperature Data Processing: Temperature data is scraped and merged with sales data for correlation analysis.
-   - ![Feature Correlation Matrix]('/temp_correlation_matrix.png')
+   - ![Feature Correlation Matrix](/temp_correlation_matrix.png)
 
 # 3. **Results and Findings**:
    - Financial Metrics: Tables present statistical parameters of revenue, profit, profit margin, and sales volume.
@@ -21,7 +21,7 @@ The report titled "Enhancing Business Efficiency and Customer Experience for Ali
    - Temperature Variation Analysis: Temperature data is analyzed for October, November, and December, showing variations and potential impacts on sales.
    - Sales of Spicier Products Analysis: Sales trends for spicier products are examined, showing intermittent spikes correlated with temperature drops.
    - Correlation Analysis with Temperature: Heatmaps illustrate weak correlations between menu items and temperature, with notable negative correlations for spicier products.
-   - ![Pie Chart]('/pie_chart.png')
+   - ![Pie Chart](/pie_chart.png)
 
 # 4. **Interpretation of Results and Recommendations**:
    - Analyzing Customer Base: Customer base analysis suggests a significant portion comprises KIIT University students.
